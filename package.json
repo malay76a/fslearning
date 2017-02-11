@@ -1,0 +1,12 @@
+{
+  "name": "fslearning",
+  "version": "0.0.1",
+  "description": "simple training project",
+  "main": "index.js",
+  "author": "Valentin Fedyakov",
+  "license": "ISC",
+  "repository" : {
+  	"type" : "git",
+    "url" : "https://github.com/malay76a/fslearning"
+  }
+}
